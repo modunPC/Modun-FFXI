@@ -20,9 +20,9 @@
 --]]
 
 addon.name      = 'clockvana';
-addon.author    = 'atom0s (modified by Almavivaconte & Oongus)';
+addon.author    = 'atom0s (modified by Almavivaconte & Modun)';
 addon.version   = '1.2';
-addon.desc      = 'Allows the player to display various times on screen. (Vana\'diel time elements added by Almavivaconte, toggle added by Oongus)';
+addon.desc      = 'Allows the player to display various times on screen. (Vana\'diel time elements added by Almavivaconte, toggle added by Modun)';
 addon.link      = 'https://ashitaxi.com/';
 
 require('common');
