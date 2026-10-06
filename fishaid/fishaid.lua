@@ -1,5 +1,5 @@
 addon.name      = 'FishAid';
-addon.author    = 'Thorny, modified by Oongus';
+addon.author    = 'Thorny, modified by Modun';
 addon.version   = '1.02';
 addon.desc      = 'Displays more visible messages for fishing dialogue.';
 addon.link      = 'https://ashitaxi.com/';
